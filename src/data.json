@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "issue": "Contact Email not Linked",
+    "status": "Updated 1 day ago",
+    "name": "Tom Cruise",
+    "issuedate": "on 24.05.2019",
+    "date": "May 26, 2019",
+    "time": "6:30 PM",
+    "priority": "High",
+    "src": "assets/user4.svg",
+    "bgColor": "#f12b2c"
+  },
+  {
+    "id": 2,
+    "issue": "Adding Images to Featured Posts",
+    "status": "Updated 1 day ago",
+    "name": "Matt Damon",
+    "issuedate": "on 24.05.2019",
+    "date": "May 26, 2019",
+    "time": "8:00 AM",
+    "priority": "low",
+    "src": "assets/user5.svg",
+    "bgColor": "#FEC400"
+  },
+  {
+    "id": 3,
+    "issue": "When will I be charged this month?",
+    "status": "Updated 1 day ago",
+    "name": "Robert Downey",
+    "issuedate": "on 24.05.2019",
+    "date": "May 26, 2019",
+    "time": "7:30 PM",
+    "priority": "High",
+    "src": "assets/user6.svg",
+    "bgColor": "#f12b2c"
+  },
+  {
+    "id": 4,
+    "issue": "Payment not going through",
+    "status": "Updated 2 day ago",
+    "name": "Christian Bale",
+    "issuedate": "on 24.05.2019",
+    "date": "May 26, 2019",
+    "time": "5:00 PM",
+    "priority": "Normal",
+    "src": "assets/user7.svg",
+    "bgColor": "#29CC97"
+  },
+  {
+    "id": 5,
+    "issue": "Unable to add replies",
+    "status": "Updated 2 day ago",
+    "name": "Henry Cavil",
+    "issuedate": "on 24.05.2019",
+    "date": "May 26, 2019",
+    "time": "4:00 PM",
+    "priority": "High",
+    "src": "assets/user8.svg",
+    "bgColor": "#f12b2c"
+  },
+  {
+    "id": 6,
+    "issue": "Downtime since last week",
+    "status": "Updated 3 day ago",
+    "name": "Chris Evans",
+    "issuedate": "on 23.05.2019",
+    "date": "May 26, 2019",
+    "time": "2:00 PM",
+    "priority": "Normal",
+    "src": "assets/user9.svg",
+    "bgColor": "#29CC97"
+  },
+  {
+    "id": 7,
+    "issue": "Referral Bonus",
+    "status": "Updated 4 day ago",
+    "name": "Sam Smith",
+    "issuedate": "on 22.05.2019",
+    "date": "May 26, 2019",
+    "time": "11:30 AM",
+    "priority": "Low",
+    "src": "assets/user10.svg",
+    "bgColor": "#FEC400"
+  },
+  {
+    "id": 8,
+    "issue": "How do I change my password?",
+    "status": "Updated 6 day ago",
+    "name": "Steve Rogers",
+    "issuedate": "on 21.05.2019",
+    "date": "May 26, 2019",
+    "time": "1:00 PM",
+    "priority": "Normal",
+    "src": "assets/user11.svg",
+    "bgColor": "#29CC97"
+  }
+]

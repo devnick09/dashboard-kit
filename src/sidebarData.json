@@ -1,0 +1,11 @@
+[
+  { "path": "assets/overview.svg", "title": "Overview" },
+  { "path": "assets/ticket.svg", "title": "Tickets" },
+  { "path": "assets/idea.svg", "title": "Ideas" },
+  { "path": "assets/contact.svg", "title": "Contacts" },
+  { "path": "assets/agent.svg", "title": "Agents" },
+  { "path": "assets/article.svg", "title": "Articles" },
+  { "path": "", "title": "" },
+  { "path": "assets/setting.svg", "title": "Settings" },
+  { "path": "assets/subscribe.svg", "title": "Subscription" }
+]
