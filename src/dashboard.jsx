@@ -306,6 +306,7 @@ function inactive() {
 }
 
 const Dashboard = () => {
+  const [title, setTitle] = useState("");
   return (
     <>
       <Main>
@@ -317,13 +318,15 @@ const Dashboard = () => {
           <ul>
             {sidebarData.map((data, index) => {
               return (
-                <li
+               <li
                   key={index}
                   onClick={(e) => {
                     e.preventDefault();
                     data.title === "Tickets" ? active() : inactive();
                     document.querySelector(".head").innerHTML = data.title;
+                    setTitle(data.title);
                   }}
+                  className={title === data.title ? "focus" : ""}
                 >
                   <img src={data.path} alt="" />
                   <p>{data.title}</p>
